@@ -5,7 +5,7 @@
 
 For this project the multimedia team was responsible for all things audio and visual. Everything you hear or see in the game was created by our team. 
 
-Visually, all artwork was created by Rhea Lauzon. The artwork present in the game ranges from the tiles of the game, each animation for the characters and enemies, menu buttons, the logo, and much much more.  
+Visually, all artwork was created by Rhea Lauzon. The artwork present in the game ranges from the tiles of the game, each animation for the characters and enemies, menu buttons, the logo, and much much more. For each class Rhea created weapons and masks as well as their run and attack animations. Rhea also created the box art.
 
 Audio presented in the game was created by Lewis Scott. In order for this to be completed, he also created a sound manager to load the audio files into the game. Lewis created sounds for the enemies as well as foot steps, announcer voices, and more. He also created some interactable GUI elements, such as buttons, text fields, etc... He created the sprite-sheet animation implementation for the engine.
 
